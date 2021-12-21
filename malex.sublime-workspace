@@ -1,0 +1,648 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"PRINT"
+			],
+			[
+				"MetaT",
+				"MetaTable"
+			],
+			[
+				"name",
+				"nameFile"
+			],
+			[
+				"P",
+				"PRINT"
+			],
+			[
+				"page",
+				"pageName"
+			],
+			[
+				"Tarif",
+				"TARIFF"
+			],
+			[
+				"Pars",
+				"ParserKV"
+			],
+			[
+				"no",
+				"no_res"
+			],
+			[
+				"Get",
+				"GetRowDict"
+			],
+			[
+				"GET",
+				"GetRowDict"
+			],
+			[
+				"GetR",
+				"GetRowCsv"
+			],
+			[
+				"GetRow",
+				"GetRowDict"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"Print",
+				"PRINT"
+			],
+			[
+				"Sa",
+				"SaveData"
+			],
+			[
+				"print",
+				"PRINT"
+			],
+			[
+				"Base",
+				"BaseException"
+			],
+			[
+				"Pa",
+				"PATH"
+			],
+			[
+				"Bas",
+				"BaseException"
+			],
+			[
+				"Comm",
+				"Commands"
+			],
+			[
+				"__",
+				"__path"
+			],
+			[
+				"nocomp",
+				"nocompPerc"
+			],
+			[
+				"eq",
+				"eqPerc"
+			],
+			[
+				"get",
+				"getCityName"
+			],
+			[
+				"tree",
+				"treeFias"
+			],
+			[
+				"stre",
+				"streets"
+			],
+			[
+				"Dict",
+				"dict_"
+			],
+			[
+				"table",
+				"tablename"
+			],
+			[
+				"ta",
+				"tablename"
+			],
+			[
+				"pr",
+				"printProgress"
+			],
+			[
+				"si",
+				"filePerSize"
+			],
+			[
+				"da",
+				"dataQuery"
+			],
+			[
+				"len",
+				"len_queries"
+			],
+			[
+				"f",
+				"file"
+			],
+			[
+				"path",
+				"pathFiles"
+			],
+			[
+				"De",
+				"DEBUG"
+			],
+			[
+				"co",
+				"commit"
+			],
+			[
+				"QU",
+				"QUOTES"
+			],
+			[
+				"s",
+				"speed"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"ty",
+				"typeName"
+			],
+			[
+				"typ",
+				"typeDev"
+			],
+			[
+				"set",
+				"setNumDev"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"st",
+				"str_dbf"
+			],
+			[
+				"col",
+				"columnsData"
+			],
+			[
+				"li",
+				"listFiles"
+			],
+			[
+				"list",
+				"listDirs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "malex/settings.py",
+			"settings":
+			{
+				"buffer_size": 3672,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"//192.168.0.92/projects/malex"
+	],
+	"file_history":
+	[
+		"//192.168.0.92/projects/malex/receiver/admin.py",
+		"//192.168.0.92/projects/malex/receiver/models.py",
+		"/C/Users/Stepanov Mikhail/Desktop/Гай.xml",
+		"/C/Users/Stepanov Mikhail/Desktop/Андрей Б.xml",
+		"/C/Users/Stepanov Mikhail/Downloads/2 Сектор c 16.05.2021.xml",
+		"/C/Users/Stepanov Mikhail/Desktop/Жека Б.xml",
+		"/C/Users/Stepanov Mikhail/Desktop/SENSOR_PARKONAVT.fw.sign",
+		"//192.168.0.92/projects/malex/malex/settings.py",
+		"//192.168.0.92/projects/malex/receiver/urls.py",
+		"//192.168.0.92/projects/malex/malex/urls.py",
+		"/C/Users/Stepanov Mikhail/Desktop/codes_none.csv",
+		"/C/Users/Stepanov Mikhail/Desktop/result.csv",
+		"//192.168.0.92/projects/jkh/result/result.csv",
+		"//192.168.0.92/projects/jkh/lib.py",
+		"//192.168.0.92/projects/jkh/main.py",
+		"/C/Users/Stepanov Mikhail/Desktop/report.csv",
+		"//192.168.0.92/projects/jkh/config/comma.dict",
+		"//192.168.0.92/projects/violations2/violations.py",
+		"//192.168.0.92/projects/jkh/any/mainDesk.py",
+		"//192.168.0.92/projects/jkh/config/commaPro.dict",
+		"//192.168.0.92/projects/jkh/config/correct.dict",
+		"//192.168.0.92/projects/jkh/any/old/procop.dict",
+		"//192.168.0.92/projects/jkh/any/lib2.py",
+		"//192.168.0.92/projects/jkh/any/old/tmp.txt",
+		"//192.168.0.92/projects/jkh/any/tmp.txt",
+		"//192.168.0.92/projects/jkh/config/addrs.txt",
+		"//192.168.0.92/projects/jkh/config/addrsUrga.txt",
+		"//192.168.0.92/projects/jkh/config/urgaMO.dict",
+		"//192.168.0.92/projects/jkh/config/commaBackup.dict",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh check/hand.py",
+		"//192.168.0.92/projects/jkh/mainNew.py",
+		"//192.168.0.92/projects/jkh/libNew.py",
+		"//192.168.0.92/projects/jkh/mainOld.py",
+		"//192.168.0.92/projects/jkh/tmp.py",
+		"//192.168.0.92/projects/jkh/mainFormat.py",
+		"//192.168.0.92/projects/jkh/lib2.py",
+		"/C/Users/Stepanov Mikhail/Desktop/zones.kml",
+		"//192.168.0.92/projects/jkh/insertCodes.py",
+		"//192.168.0.92/projects/jkh/getters.py",
+		"//192.168.0.92/projects/jkh/mainDesk.py",
+		"//192.168.0.92/projects/jkh/analyse.py",
+		"//192.168.0.92/projects/jkh/config/no_res.dict",
+		"//192.168.0.92/projects/fias/script.py",
+		"//192.168.0.92/projects/jkh/config/tmp.csv",
+		"//192.168.0.92/projects/jkh/config/tmp1.csv",
+		"//192.168.0.92/projects/jkh/config/metaTables.csv",
+		"//192.168.0.92/projects/jkh/config/comma(backup).dict",
+		"//192.168.0.92/projects/jkh/old/jkh/config/metaDataTables.csv",
+		"//192.168.0.92/projects/jkh/config/2.txt",
+		"//192.168.0.92/projects/jkh/config/1.txt",
+		"//192.168.0.92/projects/jkh/config/metaTables4.csv",
+		"//192.168.0.92/projects/jkh/config/metaTables — копия.csv",
+		"//192.168.0.92/projects/jkh/config/metaTables1.csv",
+		"//192.168.0.92/projects/jkh/config/metaTables3.csv",
+		"//192.168.0.92/projects/jkh/config/metaTables2.csv",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/main.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/lib.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTables.csv",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/comma.dict",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/tmp.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTables2.csv",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTables1.csv",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/result/comma.dict",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTablesNew.csv",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/script.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTablesOLD.csv",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__SaveFile.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/result/new.dict",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/save/tmp.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__MetaTables.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__MetaTable.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Addres.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__DataTable.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Errors.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Analyser.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Levenshtain.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/tmp.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Conf.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Commands.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Command.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__DataTables.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/config/metaDataTables.csv",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/main.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__InOut.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Dict.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Timer.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Tables.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Error.py",
+		"/C/Users/Stepanov Mikhail/Desktop/lib.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__Settings.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__containers.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__ResolveLevenshtain.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/rp.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__In_out.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__lib.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/file_to_handling/metaDataTables.csv",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/lib.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/dicts/streets.dict",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/rp/tmp.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/hand.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/rp/differ.log",
+		"//192.168.0.92/operator-send/script/gen_places.py",
+		"//192.168.0.92/operator-send/script/jour.py",
+		"//192.168.0.92/operator-send/script/v2/violations.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_ROOM_TYPES_20211004_160cf380-88fc-441e-a2f8-4ca73eff449f.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/42/PARAMS/AS_ADDR_OBJ_PARAMS_20211004_0951b0b2-4b19-450b-a9ff-8dedd21e5bce.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_ADDR_OBJ_TYPES_20211004_4d2e8c51-d2ad-4ad1-a796-a14d9d8c3ca1.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/script2.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/script3.py",
+		"//192.168.0.92/operator-send/script/get.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/42/-AS_ADM_HIERARCHY_20210930_e8721ee7-56e2-4f63-862f-dc7be56b2749.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/42/AS_ADDR_OBJ_DIVISION_20210930_a442278d-7534-428b-a059-08550d5020fc.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/-AS_ADDHOUSE_TYPES_20210930_83b767fe-2c4b-48d1-8631-a72df8dde319.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/42/AS_ADDR_OBJ_20210930_fc7ab9b3-9fe9-4667-9194-4001d5bf1b40.XML",
+		"//192.168.0.92/operator-send/script/lib.py",
+		"//192.168.0.92/operator-send/script/tmp.py",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/-AS_ROOM_TYPES_20210930_a9d8e4ee-244c-460b-9846-caf4eecef4dd.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_PARAM_TYPES_20210930_1a50742b-bef7-4f9a-a79d-6e7c340882ec.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_OPERATION_TYPES_20210930_0f4adc75-a499-43a1-8d23-9d3949aaf4fd.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_OBJECT_LEVELS_20210930_c40e4bb5-4249-409e-af41-cc0317c32127.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_NORMATIVE_DOCS_TYPES_20210930_7dc2f067-6a18-4113-a481-8b3f379dcf66.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_NORMATIVE_DOCS_KINDS_20210930_c7ac157d-2349-455f-b4be-da8489b95636.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_APARTMENT_TYPES_20210930_ded85190-2f9d-4ea8-98ab-7db4b164788d.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_ADDR_OBJ_TYPES_20210930_c11a4dd5-4847-4d18-b6bd-5b97495445b6.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_HOUSE_TYPES_20210930_2c8bcd47-aa46-4de8-965d-7a113e7cbd58.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_ADDHOUSE_TYPES_20210930_83b767fe-2c4b-48d1-8631-a72df8dde319.XML",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/xsd/AS_ADDR_OBJ_2_251_01_04_01_01.xsd",
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/xsd/AS_ADDR_OBJ_DIVISION_2_251_19_04_01_01.xsd"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CharField",
+			"LoadBooks",
+			"Шерегешь",
+			"a891f3d4-b4ec-450c-aec3-43337396ef6e",
+			"г. прокопьевск",
+			"ноградская",
+			"','",
+			"ул. пер. стартовый",
+			"RowData",
+			"max_row",
+			"GetFormatAddr",
+			"SaveData",
+			"ReadData",
+			"GetFormatAddr",
+			"GetListDir",
+			"MetaTAble",
+			"GetCodesForAddrs",
+			"ParserAddrs",
+			"SetCodesInTables",
+			"GetAddrsFromTables",
+			"GetDataSave",
+			"с. силино, ул. школьная, д. 1",
+			"г.прокопьевск, пр.строителей, 73",
+			"с. андреевка, ул. специалистов, д. 1",
+			"C",
+			"MetaTables",
+			"г. белово, ул. люксембург, д.22а",
+			"db868612-9ad3-4546-b2ad-29907b873099",
+			"db868612-9ad3-4546-b2ad-29907b873099ягуново с, новая ул, дом № 19 -> верхотомское с, школьная, дом № 6",
+			"GetCell",
+			"GetAddrsAsu",
+			"GetListDir",
+			"Строка",
+			"range",
+			"GetLenData",
+			"print",
+			"пгт новый городок, пер. седова, д.2",
+			"list_nores",
+			"analyser",
+			"(1300,[self.__meta, e, index])",
+			"Errors",
+			"())",
+			"str_",
+			"tuple",
+			"__printAllComm__",
+			"Error",
+			"__DataTables",
+			"__Tables",
+			"__columns",
+			"DEBUG",
+			"prefFile",
+			"prefFileList",
+			"saveResultInFiles",
+			"printResultCompareForPage",
+			"encoding",
+			"getDataCompFias",
+			"__compareAddr__",
+			"страници",
+			"Сопастовление",
+			"file",
+			"ул. юрия двужильного",
+			"мкр-н южный",
+			"ул. ульяны громовой",
+			"комарова",
+			"input",
+			"Files",
+			"октябрьский",
+			"пр-кт октябрьский",
+			"sreets",
+			"DataXML",
+			"rp",
+			"file",
+			"г. междуреченск",
+			"г. кемерово",
+			"п. ст.керегеш",
+			"с. вознесенка",
+			"алга",
+			"г. белово",
+			"алгаин",
+			"п.новоивановский",
+			"д.ёлгино",
+			"None",
+			"микрорайон 10",
+			"мкр",
+			"южный",
+			"Микрорайон",
+			"с лазо",
+			"с. лазо",
+			"ул. с. лазо",
+			"ул. 1 микрорайон",
+			"ул. камешковая",
+			"ул. тайбинцев",
+			"ул. белинского",
+			"пр-кт курако",
+			"маркшейдерская",
+			"ливинская",
+			"интернатная",
+			"кубинская",
+			"city",
+			"PATH",
+			"mainUpdate",
+			"pass",
+			"issetGuidArch",
+			"error",
+			")\n",
+			"speed_t",
+			"'])\n",
+			"Gps",
+			"getGps",
+			"tRadarName",
+			"tGpsPos",
+			"print",
+			"config",
+			"datetime",
+			"tinyint",
+			"def"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "malex/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2634,
+								2634
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "malex.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
