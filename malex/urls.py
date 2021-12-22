@@ -27,10 +27,10 @@ urlpatterns = [
 
 
 urlpatterns += [
-     path('app_malex/', include('app_malex.urls')),
+     path('panel/', include('panel.urls')),
 ]
 
 
 urlpatterns += [
-    path('', RedirectView.as_view(url='/app_malex/', permanent=True)),
+    path('', RedirectView.as_view(url='panel/', permanent=True)),
 ]

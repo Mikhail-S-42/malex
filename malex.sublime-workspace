@@ -207,7 +207,43 @@
 			"file": "malex/settings.py",
 			"settings":
 			{
-				"buffer_size": 3672,
+				"buffer_size": 3427,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "malex/urls.py",
+			"settings":
+			{
+				"buffer_size": 1021,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app_malex/urls.py",
+			"settings":
+			{
+				"buffer_size": 142,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app_malex/views.py",
+			"settings":
+			{
+				"buffer_size": 1035,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Stepanov Mikhail/Desktop/material-dashboard-master/pages/sign-in.html",
+			"settings":
+			{
+				"buffer_size": 9799,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -245,10 +281,19 @@
 	},
 	"expanded_folders":
 	[
-		"//192.168.0.92/projects/malex"
+		"//192.168.0.92/projects/malex",
+		"//192.168.0.92/projects/malex/app_malex",
+		"//192.168.0.92/projects/malex/app_malex/migrations",
+		"//192.168.0.92/projects/malex/malex"
 	],
 	"file_history":
 	[
+		"//192.168.0.92/projects/malex/app/models.py",
+		"//192.168.0.92/projects/malex/app_malex/models.py",
+		"//192.168.0.92/projects/malex/app_malex/urls.py",
+		"//192.168.0.92/projects/malex/malex/urls.py",
+		"//192.168.0.92/projects/malex/app/admin.py",
+		"//192.168.0.92/projects/malex/app_malex/admin.py",
 		"//192.168.0.92/projects/malex/receiver/admin.py",
 		"//192.168.0.92/projects/malex/receiver/models.py",
 		"/C/Users/Stepanov Mikhail/Desktop/Гай.xml",
@@ -258,7 +303,6 @@
 		"/C/Users/Stepanov Mikhail/Desktop/SENSOR_PARKONAVT.fw.sign",
 		"//192.168.0.92/projects/malex/malex/settings.py",
 		"//192.168.0.92/projects/malex/receiver/urls.py",
-		"//192.168.0.92/projects/malex/malex/urls.py",
 		"/C/Users/Stepanov Mikhail/Desktop/codes_none.csv",
 		"/C/Users/Stepanov Mikhail/Desktop/result.csv",
 		"//192.168.0.92/projects/jkh/result/result.csv",
@@ -371,16 +415,11 @@
 		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_OBJECT_LEVELS_20210930_c40e4bb5-4249-409e-af41-cc0317c32127.XML",
 		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_NORMATIVE_DOCS_TYPES_20210930_7dc2f067-6a18-4113-a481-8b3f379dcf66.XML",
 		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_NORMATIVE_DOCS_KINDS_20210930_c7ac157d-2349-455f-b4be-da8489b95636.XML",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_APARTMENT_TYPES_20210930_ded85190-2f9d-4ea8-98ab-7db4b164788d.XML",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_ADDR_OBJ_TYPES_20210930_c11a4dd5-4847-4d18-b6bd-5b97495445b6.XML",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_HOUSE_TYPES_20210930_2c8bcd47-aa46-4de8-965d-7a113e7cbd58.XML",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_ADDHOUSE_TYPES_20210930_83b767fe-2c4b-48d1-8631-a72df8dde319.XML",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/xsd/AS_ADDR_OBJ_2_251_01_04_01_01.xsd",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/xsd/AS_ADDR_OBJ_DIVISION_2_251_19_04_01_01.xsd"
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/gar_xml/AS_APARTMENT_TYPES_20210930_ded85190-2f9d-4ea8-98ab-7db4b164788d.XML"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -394,6 +433,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"receiver",
 			"CharField",
 			"LoadBooks",
 			"Шерегешь",
@@ -527,7 +567,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -536,15 +576,45 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3672,
+						"buffer_size": 3427,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2634,
-								2634
+								1404,
+								1404
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "malex/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
 							]
 						],
 						"settings":
@@ -557,7 +627,93 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app_malex/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app_malex/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Stepanov Mikhail/Desktop/material-dashboard-master/pages/sign-in.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7701,
+								7701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

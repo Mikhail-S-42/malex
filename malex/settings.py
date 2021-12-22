@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'app_malex.apps.AppMalexConfig',
+    'panel.apps.PanelConfig',
 ]
 
 MIDDLEWARE = [
@@ -74,16 +74,6 @@ WSGI_APPLICATION = 'malex.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-#DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.mysql', 
-#        'NAME': 'malex',
-#        'USER': 'malex_app',
-#        'PASSWORD': 'd7m$b14mnYxl;e&',
-#        'HOST': 'localhost',
-#        'PORT': '3306',
-#    }
-#}
 
 DATABASES = {
     'default': {
