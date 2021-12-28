@@ -204,65 +204,105 @@
 	"buffers":
 	[
 		{
-			"file": "_malex/urls.py",
+			"file": "_tpl/tpl.html",
 			"settings":
 			{
-				"buffer_size": 495,
+				"buffer_size": 1925,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "access/views.py",
+			"settings":
+			{
+				"buffer_size": 214,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "account/models.py",
+			"file": "access/methods.py",
 			"settings":
 			{
-				"buffer_size": 1389,
+				"buffer_size": 1280,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "violations/views.py",
+			"settings":
+			{
+				"buffer_size": 266,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "devices/models.py",
+			"file": "transports/views.py",
 			"settings":
 			{
-				"buffer_size": 6162,
+				"buffer_size": 266,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "places/models.py",
+			"file": "ppu/views.py",
 			"settings":
 			{
-				"buffer_size": 1518,
+				"buffer_size": 260,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "violations/models.py",
+			"file": "places/views.py",
 			"settings":
 			{
-				"buffer_size": 1941,
+				"buffer_size": 264,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_malex/settings.py",
+			"file": "loadViolations/views.py",
 			"settings":
 			{
-				"buffer_size": 3749,
+				"buffer_size": 269,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "manage.py",
+			"contents": "from django.template import loader, Context\nfrom django.http import HttpResponse\nfrom access.methods import GetAccess\n\nGetAccess()\n\ndef Generate(request):\n\ttpl = loader.get_template('tpl.html')\n\tcontext = {'app': 'filePlaces'}\n\treturn HttpResponse(tpl.render(context))",
+			"file": "filePlaces/views.py",
+			"file_size": 266,
+			"file_write_time": 132851330302792846,
 			"settings":
 			{
-				"buffer_size": 543,
+				"buffer_size": 268,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "access/models.py",
+			"settings":
+			{
+				"buffer_size": 913,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "//192.168.0.92/projects/tmp/tmp.py",
+			"settings":
+			{
+				"buffer_size": 239,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -299,44 +339,50 @@
 	"expanded_folders":
 	[
 		"//192.168.0.92/projects/malex",
-		"//192.168.0.92/projects/malex/_malex"
+		"//192.168.0.92/projects/malex/access",
+		"//192.168.0.92/projects/malex/filePlaces"
 	],
 	"file_history":
 	[
+		"//192.168.0.92/projects/malex/violations/admin.py",
+		"//192.168.0.92/projects/malex/violations/models.py",
+		"//192.168.0.92/projects/malex/places/admin.py",
+		"//192.168.0.92/projects/malex/devices/admin.py",
+		"//192.168.0.92/projects/malex/access/views.py",
+		"//192.168.0.92/projects/malex/devices/views.py",
+		"//192.168.0.92/projects/malex/places/views.py",
+		"//192.168.0.92/projects/malex/violations/views.py",
+		"//192.168.0.92/projects/malex/ppu/views.py",
+		"//192.168.0.92/projects/malex/transports/views.py",
+		"//192.168.0.92/projects/malex/loadViolations/views.py",
+		"//192.168.0.92/projects/malex/filePlaces/views.py",
+		"//192.168.0.92/projects/malex/account/views.py",
+		"//192.168.0.92/projects/malex/_malex/urls.py",
+		"//192.168.0.92/projects/malex/_postgres/2021-19-27",
+		"//192.168.0.92/projects/malex/_tpl/tpl.html",
+		"//192.168.0.92/projects/malex/access/models.py",
+		"//192.168.0.92/projects/malex/_malex/settings.py",
+		"//192.168.0.92/projects/malex/places/models.py",
+		"//192.168.0.92/projects/malex/devices/models.py",
+		"//192.168.0.92/projects/malex/account/models.py",
 		"//192.168.0.92/projects/malex/violations/manage.py",
 		"//192.168.0.92/projects/malex/account/urls.py",
 		"//192.168.0.92/projects/malex/access/urls.py",
 		"//192.168.0.92/projects/malex/devices/urls.py",
-		"//192.168.0.92/projects/malex/devices/views.py",
-		"//192.168.0.92/projects/malex/filePlaces/views.py",
 		"//192.168.0.92/projects/malex/filePlaces/urls.py",
 		"//192.168.0.92/projects/malex/loadViolations/urls.py",
-		"//192.168.0.92/projects/malex/loadViolations/views.py",
-		"//192.168.0.92/projects/malex/_tpl/tpl.html",
-		"//192.168.0.92/projects/malex/violations/views.py",
 		"//192.168.0.92/projects/malex/violations/urls.py",
-		"//192.168.0.92/projects/malex/transports/views.py",
 		"//192.168.0.92/projects/malex/transports/urls.py",
-		"//192.168.0.92/projects/malex/ppu/views.py",
 		"//192.168.0.92/projects/malex/ppu/urls.py",
-		"//192.168.0.92/projects/malex/places/views.py",
 		"//192.168.0.92/projects/malex/places/urls.py",
 		"/C/Users/Stepanov Mikhail/Desktop/material-dashboard-master/index.html",
 		"//192.168.0.92/projects/malex/_tpl/base.html",
 		"//192.168.0.92/projects/malex/_tpl/registration/logged_out.html",
 		"//192.168.0.92/projects/malex/_tpl/registration/login.html",
-		"//192.168.0.92/projects/malex/access/views.py",
-		"//192.168.0.92/projects/malex/account/views.py",
 		"/C/Users/Stepanov Mikhail/Desktop/material-dashboard-master/pages/sign-in.html",
-		"//192.168.0.92/projects/malex/_malex/settings.py",
 		"//192.168.0.92/projects/malex/loadViolations/apps.py",
 		"//192.168.0.92/projects/malex/filePlaces/apps.py",
-		"//192.168.0.92/projects/malex/access/models.py",
-		"//192.168.0.92/projects/malex/violations/models.py",
 		"//192.168.0.92/projects/malex/_static/tmp/models.py",
-		"//192.168.0.92/projects/malex/account/models.py",
-		"//192.168.0.92/projects/malex/places/models.py",
-		"//192.168.0.92/projects/malex/devices/models.py",
 		"//192.168.0.92/projects/malex/access/admin.py",
 		"//192.168.0.92/projects/malex/tpl/registration/login.html",
 		"//192.168.0.92/projects/malex/access/apps.py",
@@ -425,12 +471,7 @@
 		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTables2.csv",
 		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTables1.csv",
 		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/result/comma.dict",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTablesNew.csv",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/FIAS/script.py",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTablesOLD.csv",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh/__SaveFile.py",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/result/new.dict",
-		"/C/Users/Stepanov Mikhail/Documents/Works/projects/save/tmp.py"
+		"/C/Users/Stepanov Mikhail/Documents/Works/projects/jkh work/config/metaTablesNew.csv"
 	],
 	"find":
 	{
@@ -582,24 +623,110 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_malex/urls.py",
+					"file": "_tpl/tpl.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 495,
+						"buffer_size": 1925,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								109,
-								109
+								1010,
+								1010
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "access/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "access/methods.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1280,
+								1280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "violations/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								129
 							]
 						],
 						"settings":
@@ -614,55 +741,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "account/models.py",
+					"buffer": 4,
+					"file": "transports/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1389,
+						"buffer_size": 266,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								91,
-								80
+								129,
+								129
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "devices/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6162,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								87,
-								87
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -672,26 +769,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "places/models.py",
+					"buffer": 5,
+					"file": "ppu/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1518,
+						"buffer_size": 260,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								75,
-								75
+								129,
+								129
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -701,20 +797,104 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "violations/models.py",
+					"buffer": 6,
+					"file": "places/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1941,
+						"buffer_size": 264,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								76,
-								76
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "loadViolations/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "filePlaces/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "access/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								665,
+								675
 							]
 						],
 						"settings":
@@ -726,67 +906,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "_malex/settings.py",
+					"buffer": 10,
+					"file": "//192.168.0.92/projects/tmp/tmp.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3749,
+						"buffer_size": 239,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2341,
-								2341
+								168,
+								168
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2040.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "manage.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 543,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								494,
-								501
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
